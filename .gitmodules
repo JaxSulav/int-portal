@@ -1,3 +1,4 @@
 [submodule "int-question-service"]
 	path = int-question-service
 	url = git@github.com:JaxSulav/int-question-service.git
+	branch = mega
