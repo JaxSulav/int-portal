@@ -1,4 +1,4 @@
 [submodule "int-question-service"]
 	path = int-question-service
-	url = git@github.com:JaxSulav/int-question-service.git
+	url = git@github.com:Python-V/int-question-service.git
 	branch = mega
