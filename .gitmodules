@@ -2,3 +2,6 @@
 	path = int-question-service
 	url = git@github.com:Python-V/int-question-service.git
 	branch = mega
+[submodule "int-auth"]
+	path = int-auth
+	url = git@github.com:Python-V/int-auth.git
